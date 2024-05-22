@@ -1,5 +1,5 @@
 # Specify your own password for Grafana UI here
-adminPassword: automate-all-the-things
+adminPassword: sample-password
 
 ingress:
   enabled: true
